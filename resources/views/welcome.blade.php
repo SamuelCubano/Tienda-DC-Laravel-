@@ -11,7 +11,7 @@
 
 <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
 
-  <link rel="stylesheet" href="/public/css/styles-index.css">
+  <link rel="stylesheet" href="../css/styles-index.css">
 
   <script src="https://kit.fontawesome.com/cf1fb60fea.js" crossorigin="anonymous"></script>
 
